@@ -39,4 +39,5 @@ arba pasirenka iš žemiau pateiktų pavyzdžių, tačiau uždaviniai neturi kar
 
 ## Nuorodos
 http://beej.us/guide/bgipc/output/html/multipage/unixsock.html
+
 http://www.linuxhowtos.org/C_C++/socket.htm
