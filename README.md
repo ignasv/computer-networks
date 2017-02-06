@@ -1,17 +1,18 @@
 ## Apie repozitoriją
 
-This repository contains assignments and code examples for the students of Computer Networks course @ MIF, Vilnius University. 
+Šioje repozitorijoje aprašytos užduotys, skirtos Kompiuterių Tinklų pratyboms (MIF, VU)
+Aprašymas [anglų kalba](Readme.en.md))
 
-## Assignments 
+## Užduotys
 
-|No | Assignment                                                                 | Deadline | Value |
+|Nr | Užduotis                                                                 | Terminas | Maks. įvertinimas |
 |:-:|----------------------------------------------------------------------------|----------|:-----:|
-|1  |[Assignment 1: Client and Server implementation with sockets](/assignment-1)|March 12th|0.5    |
-|2  |Assignment 2: Client for a standard protocol (POP3, IMAP4, IRC, etc.)       |April 16th|1.0    |
-|3  |Assignment 3: Packet routing algorithm implementation                       |May 14th  |2.5    |
-P.S. penalty for being late: -0.2 points / week
+|1  |[Užduotis nr. 1: Klientas ir daugiaklientis serveris](/assignment-1)|Kovo 12th|0.5    |
+|2  |Assignment 2: Standartizuoto protokolo (POP3, IMAP4, IRC, t.t.) kliento realizacija |Balandžio 16th|1.0    |
+|3  |Assignment 3: Maršrutizavimo protokolo realizacija |Gegužės 14th  |2.5    |
+P.S. Galutinis užduoties įvertinimas yra mažinamas po 0.2 balo už kiekvieną pavėluotą savaitę
 
-P.P.S at least 2 assignments need to completed to be allowed to take the exam
+P.P.S Reikia atsiskaityti bent dviužduotis norint būti prileistam prie egzamino
 
-### Attendance 
-Attendance is voluntary
+### Lakomumas 
+Pratybų lankomumas yra neprivalomas
