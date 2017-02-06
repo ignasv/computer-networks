@@ -1,7 +1,8 @@
 ## What is this?
 
 This repository contains assignments and code examples for the students of Computer Networks course @ MIF, Vilnius University. 
-Description in [Lithuanian](Readme.md)
+
+Description in [Lithuanian](README.md)
 
 ## Assignments 
 
