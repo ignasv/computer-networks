@@ -1,6 +1,7 @@
-## Apie repozitoriją
+## What is this?
 
 This repository contains assignments and code examples for the students of Computer Networks course @ MIF, Vilnius University. 
+Description in [Lithuanian](Readme.md)
 
 ## Assignments 
 
@@ -11,7 +12,7 @@ This repository contains assignments and code examples for the students of Compu
 |3  |Assignment 3: Packet routing algorithm implementation                       |May 14th  |2.5    |
 P.S. penalty for being late: -0.2 points / week
 
-P.P.S at least 2 assignments need to completed to be allowed to take the exam
+P.P.S at least 2 assignments need to be completed to be allowed to take the exam
 
 ### Attendance 
 Attendance is voluntary
