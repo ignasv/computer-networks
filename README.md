@@ -1,7 +1,8 @@
 ## Apie repozitoriją
 
 Šioje repozitorijoje aprašytos užduotys, skirtos Kompiuterių Tinklų pratyboms (MIF, VU)
-Aprašymas [anglų kalba](Readme.en.md))
+
+Aprašymas [anglų kalba](README.en.md))
 
 ## Užduotys
 
