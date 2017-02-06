@@ -15,6 +15,8 @@ P.S. penalty for being late: -0.2 points / week
 
 P.P.S at least 2 assignments need to be completed to be allowed to take the exam
 
+P.P.P.S. The assignments should be presented face-to-face, in the assigned auditoriums, during the practice, until the end of the semester. 
+
 ### Schedule
 
 |Group                                        |Day of the Week |Time          |Auditorium      |

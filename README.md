@@ -15,7 +15,7 @@ P.S. Galutinis užduoties įvertinimas yra mažinamas po 0.2 balo už kiekvieną
 
 P.P.S. Reikia atsiskaityti bent dvi užduotis, norint būti prileistam prie egzamino
 
-P.P.P.S. Užduotys atsiskaitomos tik "gyvai", paskirtose auditorijose, pratybų metu iki semestro pabaigos. 
+P.P.P.S. Užduotys atsiskaitomos tik "gyvai", paskirtose auditorijose, pratybų metu iki semestro pabaigos
 
 ### Tvarkaraštis
 
