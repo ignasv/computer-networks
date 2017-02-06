@@ -15,5 +15,13 @@ P.S. penalty for being late: -0.2 points / week
 
 P.P.S at least 2 assignments need to be completed to be allowed to take the exam
 
+### Schedule
+
+|Group                                        |Day of the Week |Time          |Auditorium      |
+|---------------------------------------------|----------------|:------------:|:--------------:|
+|Computer science II year 1 group I subgroup  | Antradienis    |10:15 - 12:00 |316 (baltupiai) |
+|Computer science II year 3 group II subgroup | Antradienis    |12:00 - 14:00 |316 (baltupiai) | 
+|Computer science II year 2 group II subgroup | Ketvirtadienis |12:00 - 14:00 |310 (baltupiai) |
+
 ### Attendance 
 Attendance is voluntary
