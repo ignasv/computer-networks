@@ -3,6 +3,8 @@ Pirmosios užduoties esmė - tarpprograminis bendravimas per TCP/IP socket'us. P
 būti įvairūs žaidimai, "nutolę" (remote) skaičiavimai, piešimai, duomenų bazės ir pan. Programoms pakanka turėti tekstinį interfeisą. Uždavinį kiekvienas studentas susigalvoja pats, 
 arba pasirenka iš žemiau pateiktų pavyzdžių, tačiau uždaviniai neturi kartotis pogrupyje. Apie pasirinktą užduotį būtina pranešti man.
 
+Aprašymas [angliškai](README.en.md)
+
 ## Reikalavimai
 * Programa turi būti įgyvendinta C/C++ programavimo kalba.
 * Programa turi turėti bent minimalius parametrus - kokiu portu kurti socket'ą ar prie jo jungtis, prie kokio host'o jungtis. 
