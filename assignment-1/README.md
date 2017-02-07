@@ -43,3 +43,7 @@ Aprašymas [angliškai](README.en.md)
 http://beej.us/guide/bgipc/output/html/multipage/unixsock.html
 
 http://www.linuxhowtos.org/C_C++/socket.htm
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms738545(v=vs.85).aspx
+
+http://www.binarytides.com/winsock-socket-programming-tutorial/
