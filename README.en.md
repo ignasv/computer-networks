@@ -6,11 +6,11 @@ Description in [Lithuanian](README.md)
 
 ## Assignments 
 
-|No | Assignment                                                                 | Deadline | Value |
-|:-:|----------------------------------------------------------------------------|----------|:-----:|
-|1  |[Assignment 1: Client and Server implementation with sockets](/assignment-1)|March 12th|0.5    |
-|2  |Assignment 2: Client for a standard protocol (POP3, IMAP4, IRC, etc.)       |April 16th|1.0    |
-|3  |Assignment 3: Packet routing algorithm implementation                       |May 14th  |2.5    |
+|No | Assignment                                                                           | Deadline | Value |
+|:-:|--------------------------------------------------------------------------------------|----------|:-----:|
+|1  |[Assignment 1: Client and Server implementation with sockets](/assignment-1)          |March 12th|0.5    |
+|2  |[Assignment 2: Client for a standard protocol (POP3, IMAP4, IRC, etc.)](/assignment-2)|April 16th|1.0    |
+|3  |[Assignment 3: Packet routing algorithm implementation](/assignment-3)                |May 14th  |2.5    |
 P.S. penalty for being late: -0.2 points / week
 
 P.P.S at least 2 assignments need to be completed to be allowed to take the exam
