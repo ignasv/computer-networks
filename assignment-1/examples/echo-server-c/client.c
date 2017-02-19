@@ -30,18 +30,19 @@ int main() {
 		printf("Socket connection failed.\n");
 		exit(1);
 	}
-	printf("Connected!\nEnter the message to send:\n");
+	while(1) {
+		printf("Connected!\nEnter the message to send:\n");
 
-	fgets(send_buffer, sizeof(send_buffer), stdin);
+		fgets(send_buffer, sizeof(send_buffer), stdin);
 
-	memset(&receive_buffer, 0, BUFFER_LENGTH);
+		memset(&receive_buffer, 0, BUFFER_LENGTH);
 
-	send(curr_socket, send_buffer, strlen(send_buffer), 0);
-	printf("Sent: %s\n", send_buffer);
+		send(curr_socket, send_buffer, strlen(send_buffer), 0);
+		printf("Sent: %s\n", send_buffer);
 
-	recv(curr_socket, receive_buffer, BUFFER_LENGTH, 0);
-	printf("Received: %s\n", receive_buffer);
-
+		recv(curr_socket, receive_buffer, BUFFER_LENGTH, 0);
+		printf("Received: %s\n", receive_buffer); 
+	}
 	closesocket(curr_socket);
 	printf("Disconnected.\n");
 
