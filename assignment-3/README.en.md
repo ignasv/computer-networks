@@ -9,6 +9,6 @@ Description in [Lithuanian](README.md)
 ## Examples
 * RIPv2 (http://tools.ietf.org/html/rfc2453)
 * OSPFv2 (https://www.ietf.org/rfc/rfc2328.txt)
-* ODMRP (http://tools.ietf.org/html/draft-ietf-manet-odmrp-04, http://www.hpl.hp.com/personal/Sung-Ju_Lee/abstracts/papers/wcnc99.pdf)
-* DSDV (http://www.cs.virginia.edu/~cl7v/cs851-papers/dsdv-sigcomm94.pdf)
+* ODMRP (http://tools.ietf.org/html/draft-ietf-manet-odmrp-04)
+* DSDV (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.9248&rep=rep1&type=pdf)
 * EIGRP (https://tools.ietf.org/html/draft-savage-eigrp-00)
