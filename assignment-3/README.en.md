@@ -8,7 +8,7 @@ Description in [Lithuanian](README.md)
 
 ## Examples
 * RIPv2 (http://tools.ietf.org/html/rfc2453)
-* OSPFv2 (https://www.ietf.org/rfc/rfc2328.txt)
+* OSPFv2 (https://www.ietf.org/rfc/rfc2328.txt) (max 2.0 points because of simplicity of the algorithm)
 * ODMRP (http://tools.ietf.org/html/draft-ietf-manet-odmrp-04)
 * DSDV (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.9248&rep=rep1&type=pdf)
 * EIGRP (https://tools.ietf.org/html/draft-savage-eigrp-00)
